@@ -8,7 +8,7 @@
 
 ## 测试开发技能图谱
 
-[测试开发工程师技能图谱 V1.0](https://testerhome.com/uploads/photo/2019/c1c072ce-7b58-459d-83b9-080f37dbfd98.jpg!large)
+![测试开发工程师技能图谱 V1.0](https://testerhome.com/uploads/photo/2019/c1c072ce-7b58-459d-83b9-080f37dbfd98.jpg!large)
 
 ## 测试开发成长路径
 
@@ -25,6 +25,6 @@
 - ATX
 - Jenkins
 
-## 免费学习资料 | 测试大咖公开课
+## 免费学习资料
 
 ## 加入我们
