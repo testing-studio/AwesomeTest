@@ -22,7 +22,7 @@
 
 - Appium
 - AppCrawler
-- HttpRunner
+- [HttpRunner](https://github.com/httprunner/httprunner)
 - ATX
 - Jenkins
 - [STF](https://github.com/openstf/stf)
@@ -37,4 +37,4 @@
 
 ## 加入我们
 
-![加入我们](https://testerhome.com/uploads/photo/2019/b171fdfb-dd33-46f0-a033-d4838452cf22.jpg!large)
+[加入我们](https://testerhome.com/uploads/photo/2019/b171fdfb-dd33-46f0-a033-d4838452cf22.jpg!large)
