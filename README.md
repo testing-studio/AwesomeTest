@@ -8,7 +8,7 @@
 
 ## 测试开发技能图谱
 
-![测试开发工程师技能图谱 V1.0](https://testerhome.com/uploads/photo/2019/c1c072ce-7b58-459d-83b9-080f37dbfd98.jpg!large)
+[测试开发工程师技能图谱 V1.0](https://testerhome.com/uploads/photo/2019/c1c072ce-7b58-459d-83b9-080f37dbfd98.jpg!large)
 
 ## 测试开发成长路径
 
@@ -20,11 +20,21 @@
 
 ## 测试工具推荐
 
+- Appium
 - AppCrawler
 - HttpRunner
 - ATX
 - Jenkins
+- [STF](https://github.com/openstf/stf)
 
-## 免费学习资料
+## 测试开发精品课程
+
+- [测试开发从入门到高级实战系统进阶班](https://ke.qq.com/course/254956?flowToken=1014971)
+- [中高级测试开发名企测试定向培养计划](https://ke.qq.com/course/348893?flowToken=1014972)
+- [高级性能测试实战训练营](https://ke.qq.com/course/446413?flowToken=1014969)
+- [免费精品 | App 移动自动化测试与自动遍历测试实战入门](https://ke.qq.com/course/271076)
+- [测试工程师职业发展进阶指南 & 互联网测试技术体系详解](https://ke.qq.com/course/467772)
 
 ## 加入我们
+
+![加入我们](https://testerhome.com/uploads/photo/2019/b171fdfb-dd33-46f0-a033-d4838452cf22.jpg!large)
